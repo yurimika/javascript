@@ -40,3 +40,8 @@ alert("aaaaaaaaa" + "iyaaaaaaaaaaa");
 alert(hello + yurina);
 
 alert(init1 / float1);
+
+let nicname = "taro"
+console.log(nicname)
+let nickname = "ichiro"
+console.log(nickname)

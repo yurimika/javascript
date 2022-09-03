@@ -46,3 +46,39 @@ console.log(nicname);
 let nickname = "ichiro";
 console.log(nickname);
 
+
+
+alert('2をかけ続けて' + max + 'を超えるのに必要だった回数は' + count + '回です');
+
+let aoi= 120;
+let miku = 120;
+
+if (aoi > miku){
+  alert('aoiよりmikuが低い');
+} else if (aoi == miku){
+  alert('あおいとみくは同じ背丈');
+} else if (aoi < miku){
+  alert('みくよりあおいが低い');
+}
+
+
+
+
+let hello2 = 'Hello World';
+alert(hello2);
+
+let init12 = 1;
+alert(init12);
+
+let float12 = 3.14;
+alert(float12);
+
+let ゆうき = 'ゆうきだよー';
+alert(ゆうき);
+
+alert("aaaaaaaaa" + "iyaaaaaaaaaaa");
+
+alert(hello + yurina);
+
+alert(init1 / float1);
+

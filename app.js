@@ -20,3 +20,7 @@ if (orenge > apple){
   alert('リンゴよりみかんが安い');
 }
 
+var nickname = "taro";
+console.log(nickname);
+var nickname = "ichiro";
+console.log(nickname)

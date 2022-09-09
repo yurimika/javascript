@@ -31,3 +31,48 @@ while(num < max){
 }
 
 alert('2を掛け続けて' + max + 'を超えるのに必要だった回数は' + count + '回です');
+
+let i;
+let num = 0;
+
+for(i = 1; i < 11; i++){
+  num = num + i;
+}
+
+alert('1から10まで足し算した結果は' + num + 'です');
+
+var nickname = "taro"
+console.log(nickname)
+var nickname = "ichiro"
+console.log(nickname);
+
+// letによる再宣言
+let nickname = "taro"
+console.log(nickname)
+let nickname = "ichiro"
+console.log(nickname);
+
+// constによる再宣言
+const nickname = "taro"
+console.log(nickname)
+const nickname = "ichiro"
+console.log(nickname);
+
+// varによる再代入
+var nickname = "taro"
+console.log(nickname)
+nickname = "jiro"
+console.log(nickname);
+
+// letによる再代入
+let nickname = "taro"
+console.log(nickname)
+nickname = "jiro"
+console.log(nickname);
+
+// constによる再代入
+const nickname = "taro"
+console.log(nickname)
+nickname = "jiro"
+console.log(nickname)
+

@@ -146,3 +146,4 @@ function getJShand(){
 
   return js_hand;
 }
+

@@ -117,6 +117,11 @@ alert('Hello' + 'World');
 let orange = 100;
 let apple = 120;
 
+
+
+
+
+
 if(orange < apple){
   alert('みかんの値段がりんごより安い');
 } else if(orange == apple){
@@ -262,5 +267,5 @@ alert(8 - 5);
 alert(2 * 6);
 alert(10 / 2);
 
-alert('Hello' + 'World');
+
 
